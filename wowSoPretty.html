@@ -1,0 +1,23 @@
+<head>
+  <title>wowSoPretty</title>
+</head>
+
+<body>
+	
+  {{> pretty}}
+	
+</body>
+
+<template name="pretty">
+
+
+<button>Gerar RGB!!</button>
+
+<div id="rgbBloco"></div>
+
+	{{#each coress}}
+		<li>Vermelho: {{red}}, Verde: {{green}}, Azul: {{blue}}</li>
+	{{/each}}
+
+</template>
+
