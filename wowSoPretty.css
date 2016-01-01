@@ -1,4 +1,28 @@
 #rgbBloco{
+	height: 100px;
+	width: 100px;
+	background-color: purple;
+}
+
+#rgbBloco1{
+	height: 20px;
+	width: 20px;
+}
+
+#rgbBloco2{
+	height: 20px;
+	width: 20px;
+}
+
+#rgbBloco3{
+	height: 20px;
+	width: 20px;
+}
+#rgbBloco4{
+	height: 20px;
+	width: 20px;
+}
+#rgbBloco5{
 	height: 20px;
 	width: 20px;
 }
